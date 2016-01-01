@@ -1,4 +1,4 @@
-# Facebook Marketing Automation Java Application
+# Facebook Marketing Automation (FMA) Java Application
 The aim of this application is to provide easy &amp; extensible interface to automate facebook marketing including creating custom audience, creating facebook campaigns. 
 
 FMA (Facebook Marketing Automation) main objective is to become bridge between CRM & facebook. FMA will act as zero work for any business having CRM which want to utilize Facebook's custom audience and campaign management solution. 
