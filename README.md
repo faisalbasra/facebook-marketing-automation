@@ -8,3 +8,5 @@ FMA is based on flexible File & Database source for creating Facebook custom aud
 FMA also have fully capability of creating and managing Facebook campaigns using open interface File/Database where campaign information are provided as XML file. 
 
 FMA is Java based web app which requires apache tomcat 7+ and totally independent which application can use FMA for creating custom audience and managing facebook campaing. 
+
+#Getting Started
