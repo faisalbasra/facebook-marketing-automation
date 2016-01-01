@@ -18,4 +18,13 @@ FMA is Java based web app which requires apache tomcat 7+ and totally independen
 
 #Getting Started
 1. Now you have all facebook related configuration. Let's put update some of application configuration. 
-2. Open 
+2. Open /FMA App/resources/application.properties and modify the following information
+    appid=test
+    secert=
+    access_token=
+    act_ad=
+    crm_data=/home/data
+3. Now you are all setup to run FMA. For testing, just place phone/email based file at /home/data. FMA will be monitoring crm_data configurated location continously and when any file is created/copyied into this location it will automatically pick this CRM file and will create custom audience. 
+4. File formats for custom audience and campaing creation will be documented very soon. 
+
+#Furture Work
