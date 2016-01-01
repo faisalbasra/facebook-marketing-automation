@@ -27,4 +27,13 @@ FMA is Java based web app which requires apache tomcat 7+ and totally independen
 3. Now you are all setup to run FMA. For testing, just place phone/email based file at /home/data. FMA will be monitoring crm_data configurated location continously and when any file is created/copyied into this location it will automatically pick this CRM file and will create custom audience. 
 4. File formats for custom audience and campaing creation will be documented very soon. 
 
+#Technology & Framework 
+1. Spring
+2. SLF4J
+3. Log4J
+4. gson
+5. Jackson
+6. Unirest
+7. apache common io, lang, codec, collections, digester
+8. 
 #Furture Work
