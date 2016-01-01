@@ -10,3 +10,7 @@ FMA also have fully capability of creating and managing Facebook campaigns using
 FMA is Java based web app which requires apache tomcat 7+ and totally independent which application can use FMA for creating custom audience and managing facebook campaing. 
 
 #Getting Started
+1. Crate a facebook application at http://developers.facebook.com/apps, lets say its name is FMA APP
+2. Create/Setup your facebook ads account and get ads account id 
+3. You need valid/live ACCESS TOKEN, use https://developers.facebook.com/tools/explorer/ to generate ACCESS TOKEN for FMA APP with ads_management permission
+4. 
