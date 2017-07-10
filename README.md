@@ -1,4 +1,4 @@
-# FBMA Java App
+# Facebook Marketing Automation
 
 FBMA stands for Facebook Marketing Automation via API which enable businesses to respond to marketing needs in automated way from their current CRM / business softwares.
 
