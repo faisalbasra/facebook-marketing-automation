@@ -1,4 +1,10 @@
-# Facebook Marketing Automation
+# Social Media Marketing Automation
+
+SMMA includes following marketing networks
+
+1. FBMA (Facebook Marketing Automation)
+2. TMA (Twitter Marketing Automation)
+3. GAMA (Google Adwords Marekting Automation)
 
 FBMA stands for Facebook Marketing Automation via API which enable businesses to respond to marketing needs in automated way from their current CRM / business softwares.
 
